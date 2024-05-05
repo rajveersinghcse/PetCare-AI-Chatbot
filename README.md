@@ -2,7 +2,7 @@
 
 This project implements an AI Chatbot that can answer queries based on PDF files from a dataset. The chatbot utilizes Langchain, Ollama, and Flask frameworks, along with the RAG (Retrieval Augmentation Generation) technique for generating answers.
 
-<p><img height="400" width="1000" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/PetCare-AI-Chatbot.gif" alt="gif"></p>
+<p><img height="300" width="1000" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/PetCare-AI-Chatbot.gif" alt="gif"></p>
 
 ## Core Concept
 
