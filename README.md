@@ -1,8 +1,8 @@
----
-
-# PetCare AI Chatbot using Langchain, Ollama, and Flask
+# PetCare AI Chatbot using Langchain, llama3, and Flask
 
 This project implements an AI Chatbot that can answer queries based on PDF files from a dataset. The chatbot utilizes Langchain, Ollama, and Flask frameworks, along with the RAG (Retrieval Augmentation Generation) technique for generating answers.
+
+<p><img height="400" width="1000" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/PetCare-AI-Chatbot.gif" alt="gif"></p>
 
 ## Core Concept
 
@@ -34,6 +34,7 @@ The core concept behind this AI Chatbot lies in leveraging advanced natural lang
 1. Ensure you have the necessary PDF files in the `data/` directory. Supported PDF files include:
    - `dog_care_encyclopedia.pdf`
    - `Veterinary_Clinical_Pathology.pdf`
+   - You can add more pdf files. But it will take a lot of computational resources.
 
 2. Run the Flask application:
    ```bash
@@ -66,5 +67,3 @@ Contributions to enhance the chatbot's functionality, add new features, or impro
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
