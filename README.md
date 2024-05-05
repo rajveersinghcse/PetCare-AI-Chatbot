@@ -36,12 +36,17 @@ The core concept behind this AI Chatbot lies in leveraging advanced natural lang
    - `Veterinary_Clinical_Pathology.pdf`
    - You can add more pdf files. But it will take a lot of computational resources.
 
-2. Run the Flask application:
+2. You have to run your llama model from Ollama.
+   ```bash
+   Ollama serve
+   ```
+
+4. Run the Flask application:
    ```bash
    python app.py
    ```
 
-3. Access the chatbot interface by navigating to `http://localhost:5000` in your web browser.
+5. Access the chatbot interface by navigating to `http://localhost:5000` in your web browser.
 
 ## Project Structure
 
